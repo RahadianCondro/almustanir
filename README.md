@@ -1,4 +1,4 @@
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TheMaestro1s/quran-bot)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RahadianCondro/almustanir)
 
 # Quran bot
 
